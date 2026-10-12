@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/tCznGiV4E=",
+  "success": true,
+  "projectFilePath": "/Users/roriputu/Documents/Web-Dev/shopping-agent/server/AiShoppingAgent.Api/AiShoppingAgent.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/roriputu/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/Users/roriputu/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
