@@ -1,4 +1,5 @@
 
+using AiShoppingAgent.Api.Endpoints;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
@@ -36,5 +37,5 @@ app.MapGet("/api/health", () =>
         service = "AI Shopping Agent API"
     });
 });
-
+app.MapProductEndpoints();
 app.Run();

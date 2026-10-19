@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiShoppingAgent.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aae610e5220ff343b33de828bd9dc4e65149b7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33dba9bb1abf9ccd4528a915a1f9601e0e94700a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiShoppingAgent.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiShoppingAgent.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
